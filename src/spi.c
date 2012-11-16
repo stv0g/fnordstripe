@@ -1,5 +1,5 @@
 /**
- * SPI Routines
+ * SPI routines
  *
  * @copyright	2012 Steffen Vogel
  * @license	http://www.gnu.org/licenses/gpl.txt GNU Public License

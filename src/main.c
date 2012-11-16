@@ -1,5 +1,5 @@
 /**
- * Main Routine
+ * Main routine
  *
  * @copyright	2012 Steffen Vogel
  * @license	http://www.gnu.org/licenses/gpl.txt GNU Public License
@@ -89,7 +89,7 @@ int main(void) {
 				strip_setdot(hsv2rgb(hsvd), i);
 				sei();
 			}
-			_delay_ms(1);
+			_delay_ms(500);
 		}
 		else if (r & 0xff00) {
 			uart_puts_P("error\r\n");

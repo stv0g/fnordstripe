@@ -1,5 +1,5 @@
 /**
- * Color Types
+ * Color types & conversion
  *
  * @copyright	2012 Steffen Vogel
  * @license	http://www.gnu.org/licenses/gpl.txt GNU Public License
