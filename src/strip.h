@@ -21,7 +21,7 @@
  *
  * You should have received a copy of the GNU General Public License
  * along with fnordstripe. If not, see <http://www.gnu.org/licenses/>.
- *
+ */
 
 #ifndef _STRIP_H_
 #define _STRIP_H_
